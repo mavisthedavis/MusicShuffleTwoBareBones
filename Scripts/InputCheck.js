@@ -36,5 +36,5 @@ function handleSubmit(event) {
         setInterval(checkEnd, 1);   
         filesAdded = true; 
     }  
-    
+}
     //audioList[i].addEventListener('onended', audioEnd());
